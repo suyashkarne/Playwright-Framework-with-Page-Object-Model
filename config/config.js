@@ -1,0 +1,23 @@
+export const config = {
+    url:"https://www.demoblaze.com/",
+    title:"STORE",
+    headerMenu:['About us','Log in','Sign up','Cart','Contact'],
+    categoryOptions:['Phones','Laptops','Monitors'],
+    username:"pavanol",
+    password:"test@123",
+    product1:"Nexus 6",
+    product2:"Iphone 6 32gb",
+    productAddedAlert:"Product added",
+    orderPlacedMsg:"Thank you for your purchase!",
+    purchaseWithoutDetailsAlert:"Please fill out Name and Creditcard.",
+    name:"Suyash",
+    country:"India",
+    city:"Pune",
+    creditCard:"1234567890",
+    month:"May",
+    year:"2024",
+    messageSentAlert:"Thanks for the message!!",
+    email:"randomemail@abc.com",
+    name:"random",
+    message:"Testing application"
+}
